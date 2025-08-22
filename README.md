@@ -32,7 +32,7 @@ Each level in the game can only be accessed by collecting its corresponding key.
 
 Checks:
 
-Block Completion/Boss/Level Completion: Complete specific Blocks in a Level, defeat a boss, and/or complete a Level to obtain a check.
+- Block Completion/Boss/Level Completion: Complete specific Blocks in a Level, defeat a boss, and/or complete a Level to obtain a check.
 - Weapon Candles: Collect a weapon from a candle to obtain a check.
 - Pork Candles: Collect pork from a candle to obtain a check.
 - Miscellaneous Candles: Collect a Rosario, Invisibility Potion, or 1-UP from a candle to obtain a check.
