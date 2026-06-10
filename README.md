@@ -1,5 +1,5 @@
 # BigBradley-Super-Castlevania-IV-Manual-APworld
-Requirements: A North American copy of Super Castlevania IV, and the attached password sheet. An emulator is recommended is recommended if you shuffle Upwards and Downwards Whip and Crouch, and/or play on the Cursed difficulty, but playing on real hardware will also work.
+Requirements: A North American copy of Super Castlevania IV, and the attached password sheet. An emulator is recommended if you shuffle Upwards and Downwards Whip and Crouch, and/or play on the Cursed difficulty, but playing on real hardware will also work.
 
 Goal: Collect The Ring, The Heart of Dracula, The Rib Bone, The Nail, and The Eyeball to defeat Dracula. Upon collecting all 5 keys, you can go straight to the fight using the password system.
 
